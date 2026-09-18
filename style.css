@@ -60,7 +60,7 @@ body {
   border-radius: 50%;
   border: 6px solid #e7e7e7;
   overflow: hidden;
-  background-image: url('./img/profile.jpg');
+  background-image: url('./img/profile.png');
   background-size: cover;
   background-position: center;
   filter: saturate(0.9) contrast(1.05);
