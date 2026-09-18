@@ -1,7 +1,7 @@
 :root {
   --page-bg: #f0f0f0;
   --frame: #2d2d2d;
-  --sidebar: #2d2f32;
+  --sidebar: #5a514b;
   --sidebar-text: #f3f3f3;
   --muted: #9a9a9a;
   --main-text: #111111;
@@ -42,7 +42,7 @@ body {
 
 .sidebar {
   width: 340px;
-  background: linear-gradient(180deg, #2d2f32 0%, #25272b 100%);
+  background: linear-gradient(180deg, #5a514b 0%, #463f3a 100%);
   color: var(--sidebar-text);
   padding: 26px 22px 18px 22px;
   position: relative;
@@ -137,7 +137,7 @@ body {
 }
 
 .skills-list {
-  text-align: justify;
+  text-align: left;
 }
 
 .language-list {
